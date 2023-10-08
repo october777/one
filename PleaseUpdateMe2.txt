@@ -147,7 +147,6 @@ https://github.com/zinminphyo0/KozinTemplates
 https://github.com/foulenzer/foulenzer-templates
 https://github.com/joanbono/nuclei-templates
 https://github.com/Nithissh0708/Custom-Nuclei-Templates
-https://github.com/ChiaraNRTT96/BountySkill
 https://github.com/bhataasim1/PersonalTemplates
 https://github.com/themastersunil/Nuclei-TamplatesBackup
 https://github.com/themastersunil/nucleiDB
